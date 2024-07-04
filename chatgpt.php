@@ -1,6 +1,6 @@
 <?php
 
-$apikey = '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';
+$apikey = '';
 
 $data =[
     'model' => 'gpt-3.5-turbo-instruct',
