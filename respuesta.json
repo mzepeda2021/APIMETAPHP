@@ -1,0 +1,39 @@
+{
+    "object": "whatsapp_business_account",
+    "entry": [
+        {
+            "id": "343442128857949",
+            "changes": [
+                {
+                    "value": {
+                        "messaging_product": "whatsapp",
+                        "metadata": {
+                            "display_phone_number": "15556242548",
+                            "phone_number_id": "300832309790377"
+                        },
+                        "contacts": [
+                            {
+                                "profile": {
+                                    "name": "Ing Michel Zepeda"
+                                },
+                                "wa_id": "5213334627879"
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "from": "5213334627879",
+                                "id": "wamid.HBgNNTIxMzMzNDYyNzg3ORUCABIYIDhDQkVGQzBFMjQ4Mjg2OTdCRUQ0MTFFQjU5QzM5RkQ3AA==",
+                                "timestamp": "1719685741",
+                                "text": {
+                                    "body": "Prueba de tu puta madre"
+                                },
+                                "type": "text"
+                            }
+                        ]
+                    },
+                    "field": "messages"
+                }
+            ]
+        }
+    ]
+}

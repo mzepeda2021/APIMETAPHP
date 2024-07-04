@@ -1,0 +1,26 @@
+{
+    "messaging_product": "whatsapp",
+    "metadata": {
+        "display_phone_number": "15556242548",
+        "phone_number_id": "300832309790377"
+    },
+    "contacts": [
+        {
+            "profile": {
+                "name": "Ing Michel Zepeda"
+            },
+            "wa_id": "5213334627879"
+        }
+    ],
+    "messages": [
+        {
+            "from": "5213334627879",
+            "id": "wamid.HBgNNTIxMzMzNDYyNzg3ORUCABIYIEM3RUU1NEQ4QThBMTg0QUFFMkQzRjU4N0JGQjM0MzU2AA==",
+            "timestamp": "1719859808",
+            "text": {
+                "body": "Miguel es marica (Hammerhead, cabeza de borrador, pendejo, retrasado)"
+            },
+            "type": "text"
+        }
+    ]
+}

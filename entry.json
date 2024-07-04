@@ -1,0 +1,34 @@
+{
+    "id": "343442128857949",
+    "changes": [
+        {
+            "value": {
+                "messaging_product": "whatsapp",
+                "metadata": {
+                    "display_phone_number": "15556242548",
+                    "phone_number_id": "300832309790377"
+                },
+                "contacts": [
+                    {
+                        "profile": {
+                            "name": "Ing Michel Zepeda"
+                        },
+                        "wa_id": "5213334627879"
+                    }
+                ],
+                "messages": [
+                    {
+                        "from": "5213334627879",
+                        "id": "wamid.HBgNNTIxMzMzNDYyNzg3ORUCABIYIDU2OUZFMTRBMzg1NEM0Q0JENjlCQjJGNEJBNDkzMjZEAA==",
+                        "timestamp": "1719859161",
+                        "text": {
+                            "body": "Hola"
+                        },
+                        "type": "text"
+                    }
+                ]
+            },
+            "field": "messages"
+        }
+    ]
+}
