@@ -178,7 +178,7 @@ function EnviarMensajeWhatsapp($comentario, $numero) {
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
     curl_setopt($ch, CURLOPT_HTTPHEADER, [
         'Content-Type: application/json',
-        'Authorization: Bearer EAALZCPZAxU428BO5d9yjYRoRoKoICwjWwySNijXz9TjtfHoR5AgnaORTXfj2cueaBzksx82P6rtAX3zIy2Bqni9OazUdfoMBV3Sbk1eBYYXaASfi9cueppVTkQ29NZCg901b3lI76XB1TsYLdOZBt5OtbrZCAbrP3I9nsTI4R9QMobhf6fMP5Hk6WHgEflKSK'
+        'Authorization: Bearer '
     ]);
     curl_setopt($ch, CURLOPT_POST, true);
     curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
